@@ -4259,6 +4259,7 @@ fieldset:disabled .btn {
 .nav-pills .show > .nav-link {
   color: #fff;
   background-color: #0d6efd;
+  cursor: pointer;
 }
 
 .nav-fill > .nav-link,
@@ -7622,6 +7623,7 @@ fieldset:disabled .btn {
 .my-4 {
   margin-top: 1.5rem !important;
   margin-bottom: 1.5rem !important;
+  cursor: pointer;
 }
 
 .my-5 {
